@@ -2,7 +2,7 @@
         <div class="container-fluid">
             <!-- Logo on the left side -->
             <div class="navbar">
-                <a class="navbar-brand" href="index.php">
+                <a class="navbar-brand" href="index.html">
                     <span class="company-name">Portfo</span> <span class="highlighted-text">lio</span>
                 </a>
             </div>
@@ -16,19 +16,19 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav mx-auto">
                     <li class="nav-item nav-item1">
-                        <a class="nav-link" href="index.php">Home</a>
+                        <a class="nav-link" href="index.html">Home</a>
                     </li>
                     <li class="nav-item nav-item1 me-2">
-                        <a class="nav-link" href="about_me.php">About Me</a>
+                        <a class="nav-link" href="about_me.html">About Me</a>
                     </li>
                     <li class="nav-item nav-item1 me-2">
-                        <a class="nav-link" href="project.php">Projects</a>
+                        <a class="nav-link" href="project.html">Projects</a>
                     </li>
                     <li class="nav-item nav-item1 me-2">
-                        <a class="nav-link" href="skill.php">Skills</a>
+                        <a class="nav-link" href="skill.html">Skills</a>
                     </li>
                     <li class="nav-item nav-item1">
-                        <a class="nav-link" href="contact.php">Contacts</a>
+                        <a class="nav-link" href="contact.html">Contacts</a>
                     </li>
                 </ul>
     
